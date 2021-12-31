@@ -244,7 +244,7 @@
         <section class="page-section bg-black" id="team">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="text-white mb-4">Happy birthday Lily <3</h2>
+                    <h2 class="text-white mb-4">Happy birthday Maria <3</h2>
                     <div class="col-lg-8 mx-auto text-center"><h6 class="text-white mb-4">Happy birthday my dear, you hold a really special place in my heart. 
                         I always feel really lucky to have met you and have you in my life. 
                         My love, My angel, My kawaii lilychaan, I love you soo much.
