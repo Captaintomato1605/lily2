@@ -292,6 +292,5 @@
         <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
         <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
-        <iframe width="0" height="0" src="https://www.youtuberepeater.com/watch?v=6-fw8BVYazA#gsc.tab=0" frameborder="0" allowfullscreen></iframe>
     </body>
 </html>
